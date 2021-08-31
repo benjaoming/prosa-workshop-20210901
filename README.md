@@ -1,4 +1,6 @@
-# PROSA Workshop on ICT reuse
+# PROSA workshop om genbrug og reparation af it-udstyr
+
+For at rendere slides, skal du downloade dette repo lokalt.
 
 ## Gæster
 
@@ -17,11 +19,11 @@
 Hvis du ikke har en Github-konto, kan du lægge inputs her: [https://pad.data.coop/ttI5qMhgR-S030hYgXtTSQ?both](https://pad.data.coop/ttI5qMhgR-S030hYgXtTSQ?both)
 
 
-## Coming up:
+## Coming up
 
-* September 2: Webinar, The Restart Project https://ti.to/the-restart-project/what-companies-hide-the-high-carbon-impact-of-making-electronics
-* October 16: Repair Day 2021: https://openrepair.org/international-repair-day/
-* November 13: Green_IT (PROSA Midtvejsmøde, annual PROSA conference)
+* **September 2:** Webinar, The Restart Project https://ti.to/the-restart-project/what-companies-hide-the-high-carbon-impact-of-making-electronics
+* **October 16:** Repair Day 2021: https://openrepair.org/international-repair-day/
+* **November 13:** Green_IT (PROSA Midtvejsmøde, annual PROSA conference)
 
 ## Viden og artikler
 
