@@ -1,6 +1,6 @@
 # PROSA workshop om genbrug og reparation af it-udstyr
 
-For at rendere slides, skal du downloade dette repo lokalt.
+For at rendere slides direkte, kan du downloade dette repo lokalt og åbne `presentation/index.html`. Ellers så kig på [https://overtag.dk/files/prosa-workshop-20210901/presentation/](https://overtag.dk/files/prosa-workshop-20210901/presentation/)
 
 ## Gæster
 
