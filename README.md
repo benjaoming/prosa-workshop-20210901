@@ -35,6 +35,7 @@ Hvis du ikke har en Github-konto, kan du lægge inputs her: [https://pad.data.co
 * [Nature: How to stop data centres from gobbling up the world’s electricity](https://www.nature.com/articles/d41586-018-06610-y)
 * [Wired: Data Centers Aren't Devouring the Planet's Electricity—Yet](https://www.wired.com/story/data-centers-not-devouring-planet-electricity-yet/)
 * [Berlingske: Presset vokser: CO2-udledning fra datacentre overgår flybranchen før coronakrisen](https://www.berlingske.dk/virksomheder/presset-vokser-co2-udledning-fra-datacentre-overgaar-flybranchen-foer)
+* [Carbon Footprinting Upstream Supply Chain for Electronics Manufacturing and Computer Services (2009)](https://www.researchgate.net/publication/232655355_Carbon_footprinting_upstream_supply_chain_for_electronics_manufacturing_and_computer_services)
 
 
 ## Links til organisationer
